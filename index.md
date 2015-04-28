@@ -60,7 +60,7 @@ The project spanned 5 weeks of the course.  Each week there was a deliverable re
 5. Final Project Results
 
 
-## [Data Wrangling & Analysis]({{ BASE_PATH }}/R.md)
+## <a href={{BASE_PATH}}/R.md">Data Wrangling & Analysis</a>
 
 This section outlines the tools and workflows used for the data wrangling (collection, completion, cleaning and validation) and the subsequent analysis and visualization of the data.  Where possible, we have included workflows to aid in reproducing our work.
 
