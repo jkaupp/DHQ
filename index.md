@@ -78,22 +78,22 @@ The identification of those subjects and areas and of their major contributors w
 
 The project spanned 5 weeks of the course.  Each week there was a deliverable required by the course for assessment, and to keep the project on track. During the fourth week, teams received feedback from their peers about the intermediate project results.  Detailed below is the work done by our group, and the feedback received:
 
-1. [User and Task Analysis](coursework/VisualizingDHQ_UserTaskAnalysis.pdf)
-2. [Presentation of Project Plans](coursework/DHQ_Writeup1-8.pdf)
-3. [Presentation of Intermediate Project Results](coursework/DHQ_WriteupItem1-10.pdf)
-4. [Peer Feedback](coursework/8-VisualizingDHQBibliography-review.pdf)
+1. [User and Task Analysis]({{BASE_PATH}}coursework/VisualizingDHQ_UserTaskAnalysis.pdf)
+2. [Presentation of Project Plans]({{BASE_PATH}}coursework/DHQ_Writeup1-8.pdf)
+3. [Presentation of Intermediate Project Results]({{BASE_PATH}}coursework/DHQ_WriteupItem1-10.pdf)
+4. [Peer Feedback]({{BASE_PATH}}coursework/8-VisualizingDHQBibliography-review.pdf)
 5. Final Project Results
 
 
-## [Data Wrangling & Analysis](R.md)
+## [Data Wrangling & Analysis]({{BASE_PATH}}R.md)
 
 This section outlines the tools and workflows used for the data wrangling (collection, completion, cleaning and validation) and the subsequent analysis and visualization of the data.  Where possible, we have included workflows to aid in reproducing our work.
 
-## [Source & Master Data Files](data.md)
+## [Source & Master Data Files]({{BASE_PATH}}data.md)
 
 This section provides an brief outline of the data provided by the client, as well as additional data gained from cleaning and validation.  It also contains the descriptions of the master files used for analysis and visualization.
 
-##[Images](images)
+##[Images]({{BASE_PATH}}images)
 
 This contains all of the preliminary images, draft visualizations, sketches and drawings developed by the group.  These represent the collective efforts of the group to arrive at the final visualizations presented in the project report.
 
