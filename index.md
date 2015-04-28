@@ -5,7 +5,9 @@ description: "main page"
 ---
 {% include JB/setup %}
 
-
+## Authours
+<center>
+<br>
 |---
 | **Name** | **Profession** | **Affiliation**
 |:-:|:-:|:-:|
@@ -18,11 +20,9 @@ description: "main page"
 | Jake Kaupp | Engineering Education Researcher | Queen's University |
 |---
 | Max Kemman | PhD Candidate | University of Luxembourg |
-
+</center>
 
 ---
-
-##This Site
 
 This is the project page website which displays the repository a little more cleanly.  This is the more 'presentable' side of the work done for the course and the client.
 
