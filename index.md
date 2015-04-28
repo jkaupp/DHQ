@@ -13,7 +13,7 @@ description: "main page"
 |:-:|:-:|:-:|
 | Dulce Maria de la Cruz  | Freelance Data Analyst | -
 |---
-| Kristin Lewis | Physicist | AAAS/NASA  |
+| Kristin Lewis | Physicist | AAAS  |
 |---
 | Teh-Hen Yu | IT Professional | -
 |---
