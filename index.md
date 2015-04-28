@@ -24,6 +24,7 @@ description: "main page"
 ---
 
 <img src="https://raw.githubusercontent.com/jkaupp/DHQ/master/images/Final%20Visualizations/FixedCo-author-by-year-landscape.png" style="float: center; margin-right: 1%; margin-bottom: 0.5em;" >
+
 ---
 
 <img src="https://raw.githubusercontent.com/jkaupp/DHQ/master/images/Final%20Visualizations/BiblioBackbone%20-%20Collected.png" style="float: left; margin-right: 1%; margin-bottom: 0.5em;" >
