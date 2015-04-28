@@ -65,35 +65,35 @@ Students will have the opportunity to collaborate on real-world projects for a v
 
 ##This Project
 
-The Digital Humanities Quarterly (DHQ) journal covers all aspects of digital media in the humanities, representing a meeting point between digital humanities research and the wider humanities community [@TheAllianceofDigitalHumanitiesOrganizations2005]. It is the publication from ACH (Association for Computers and Humanities), which is part of ADHO (the Alliance of Digital Humanities Organization)  -- a global alliance with constituent members in EU (EADH), US (ACH), Canada (CSDH/SCHN), Japan (JADH), Australia (aaDH), and an international network (centerNet) with 196 Digital Humanity Centers globally. Articles published in DHQ involve authors of multiple countries, institutions and disciplines who work on several subjects and areas related to digital media research.
+The Digital Humanities Quarterly (DHQ) journal covers all aspects of digital media in the humanities, representing a meeting point between digital humanities research and the wider humanities community (Alliance of Digital Humanities Organizations, 2005). It is the publication from ACH (Association for Computers and Humanities), which is part of ADHO (the Alliance of Digital Humanities Organization)  -- a global alliance with constituent members in EU (EADH), US (ACH), Canada (CSDH/SCHN), Japan (JADH), Australia (aaDH), and an international network (centerNet) with 196 Digital Humanity Centers globally. Articles published in DHQ involve authors of multiple countries, institutions and disciplines who work on several subjects and areas related to digital media research.
 Under a recent grant from NEH (National Endowment for Humanities), DHQ has developed a centralized bibliography which supports the bibliographic referencing for the journal. The client is looking for visualizations that show:
 
 1.	how citations reflect differences in academic culture at the institutional and geographic level
 2. 	the changes to that culture over time.
 3.	correlations between article topics (reflected in keywords) and citation patterns.
 
-The identification of those subjects and areas and of their major contributors would be very important for any researcher involved or interested in digital media research. However, due to the collaborative, multidisciplinary nature of the digital media research, such identification becomes extremely difficult, if not impossible, to accomplish by merely analyzing the DHQ bibliographic database [@Borner2003]. In such a case, visualization is the preferred approach.
+The identification of those subjects and areas and of their major contributors would be very important for any researcher involved or interested in digital media research. However, due to the collaborative, multidisciplinary nature of the digital media research, such identification becomes extremely difficult, if not impossible, to accomplish by merely analyzing the DHQ bibliographic database (Borner, 2003). In such a case, visualization is the preferred approach.
 
 ##Project Work
 
 The project spanned 5 weeks of the course.  Each week there was a deliverable required by the course for assessment, and to keep the project on track. During the fourth week, teams received feedback from their peers about the intermediate project results.  Detailed below is the work done by our group, and the feedback received:
 
-1. [User and Task Analysis]({{BASE_PATH}}coursework/VisualizingDHQ_UserTaskAnalysis.pdf)
-2. [Presentation of Project Plans]({{BASE_PATH}}coursework/DHQ_Writeup1-8.pdf)
-3. [Presentation of Intermediate Project Results]({{BASE_PATH}}coursework/DHQ_WriteupItem1-10.pdf)
-4. [Peer Feedback]({{BASE_PATH}}coursework/8-VisualizingDHQBibliography-review.pdf)
+1. [User and Task Analysis]({{BASE_PATH}}/coursework/VisualizingDHQ_UserTaskAnalysis.pdf)
+2. [Presentation of Project Plans]({{BASE_PATH}}/coursework/DHQ_Writeup1-8.pdf)
+3. [Presentation of Intermediate Project Results]({{BASE_PATH}}/coursework/DHQ_WriteupItem1-10.pdf)
+4. [Peer Feedback]({{BASE_PATH}}/coursework/8-VisualizingDHQBibliography-review.pdf)
 5. Final Project Results
 
 
-## [Data Wrangling & Analysis]({{BASE_PATH}}R.md)
+## [Data Wrangling & Analysis]({{BASE_PATH}}/R.md)
 
 This section outlines the tools and workflows used for the data wrangling (collection, completion, cleaning and validation) and the subsequent analysis and visualization of the data.  Where possible, we have included workflows to aid in reproducing our work.
 
-## [Source & Master Data Files]({{BASE_PATH}}data.md)
+## [Source & Master Data Files]({{BASE_PATH}}/data.md)
 
 This section provides an brief outline of the data provided by the client, as well as additional data gained from cleaning and validation.  It also contains the descriptions of the master files used for analysis and visualization.
 
-##[Images]({{BASE_PATH}}images)
+##[Images]({{BASE_PATH}}/images)
 
 This contains all of the preliminary images, draft visualizations, sketches and drawings developed by the group.  These represent the collective efforts of the group to arrive at the final visualizations presented in the project report.
 
