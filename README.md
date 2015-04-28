@@ -1,78 +1,100 @@
-# Jekyll-Bootstrap
+##Mapping Cultures in the Big Tent: Multidisciplinary Networks in the Digital Humanities Quarterly
 
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
+***
 
-## Usage
+<h3 id="authors">Authors</h3>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Profession</th>
+<th>Affiliation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dulce Maria de la Cruz</td>
+<td>Freelance Data Analyst</td>
+<td></td>
+</tr>
+<tr>
+<td>Kristin Lewis</td>
+<td>Physicist</td>
+<td>AAAS/NASA</td>
+</tr>
+<tr>
+<td>Teh-Hen Yu</td>
+<td>IT Professional</td>
+<td></td>
+</tr>
+<tr>
+<td>Jake Kaupp</td>
+<td>Engineering Education Researcher</td>
+<td>Queen&#39;s University</td>
+</tr>
+<tr>
+<td>Max Kemman</td>
+<td>PhD Candidate</td>
+<td>University of Luxembourg</td>
+</tr>
+</tbody>
+</table>
 
-For all usage and documentation please see: <http://jekyllbootstrap.com>
+##This Site
 
-## Version
+This is the project page website for the above project, by the authors also mentioned above.  This is all of the work done for the project for both the course (IVMOOC) and the client (DHQ)
 
-0.3.0 - stable and versioned using [semantic versioning](http://semver.org/).
+##[IVMOOC](http://ivmooc.cns.iu.edu/)
 
-**NOTE:** 0.3.0 introduces a new theme which is not backwards compatible in the sense it won't _look_ like the old version.
-However, the actual API has not changed at all.
-You might want to run 0.3.0 in a branch to make sure you are ok with the theme design changes.
+The Information Visualization Massively Open Online Course, or IVMOOC, provides an overview about the state of the art in information visualization. It teaches the process of producing effective visualizations that take the needs of users into account.
 
-## Milestones
+Among other topics, the course covers:
 
-[0.4.0](https://github.com/plusjade/jekyll-bootstrap/milestones/v%200.4.0) - next release [ETA 03/29/2015]
+* Data analysis algorithms that enable extraction of patterns and trends in data
+* Major temporal, geospatial, topical, and network visualization techniques
+* Discussions of systems that drive research and development.
 
-### GOALS
+Students will have the opportunity to collaborate on real-world projects for a variety of clients.
 
-* No open PRs against master branch.
-* Squash some bugs.
-* Add some new features (low-hanging fruit).
-* Establish social media presence.
+##This Project
 
+The Digital Humanities Quarterly (DHQ) journal covers all aspects of digital media in the humanities, representing a meeting point between digital humanities research and the wider humanities community [@TheAllianceofDigitalHumanitiesOrganizations2005]. It is the publication from ACH (Association for Computers and Humanities), which is part of ADHO (the Alliance of Digital Humanities Organization)  -- a global alliance with constituent members in EU (EADH), US (ACH), Canada (CSDH/SCHN), Japan (JADH), Australia (aaDH), and an international network (centerNet) with 196 Digital Humanity Centers globally. Articles published in DHQ involve authors of multiple countries, institutions and disciplines who work on several subjects and areas related to digital media research.
+Under a recent grant from NEH (National Endowment for Humanities), DHQ has developed a centralized bibliography which supports the bibliographic referencing for the journal. The client is looking for visualizations that show:
 
-### Bugs
+1.	how citations reflect differences in academic culture at the institutional and geographic level
+2. 	the changes to that culture over time.
+3.	correlations between article topics (reflected in keywords) and citation patterns.
 
-|Bug |Description
-|------|---------------
-|[#86](https://github.com/plusjade/jekyll-bootstrap/issues/86)  |&#x2611; Facebook Comments
-|[#113](https://github.com/plusjade/jekyll-bootstrap/issues/113)|&#x2611; ASSET_PATH w/ page & post
-|[#144](https://github.com/plusjade/jekyll-bootstrap/issues/144)|&#x2610; BASE_PATH w/ FQDN
-|[#227](https://github.com/plusjade/jekyll-bootstrap/issues/227)|&#x2611; Redundant JB/setup
+The identification of those subjects and areas and of their major contributors would be very important for any researcher involved or interested in digital media research. However, due to the collaborative, multidisciplinary nature of the digital media research, such identification becomes extremely difficult, if not impossible, to accomplish by merely analyzing the DHQ bibliographic database [@Borner2003]. In such a case, visualization is the preferred approach.
 
-### Features
+##Project Work
 
-|Bug |Description
-|------|---------------
-|[#98](https://github.com/plusjade/jekyll-bootstrap/issues/98)  |&#x2611; GIST Integration
-|[#244](https://github.com/plusjade/jekyll-bootstrap/issues/244)|&#x2611; JB/file_exists Helper
-|[#42](https://github.com/plusjade/jekyll-bootstrap/issues/42)  |&#x2611; Sort collections of Pages / Posts
-|[#84](https://github.com/plusjade/jekyll-bootstrap/issues/84)  |&#x2610; Detecting production mode
+The project spanned 5 weeks of the course.  Each week there was a deliverable required by the course for assessment, and to keep the project on track. During the fourth week, teams received feedback from their peers about the intermediate project results.  Detailed below is the work done by our group, and the feedback received:
 
-### TODOS
-
-Review existing pull requests against plusjake/jekyll-bootstrap:master. Merge or close each.
-
-* Create twitter account. Add link / icon on jekyllbootstrap.com.
-* Create blog posts under plusjade/gh-pages, expose on jekyllbootstrap.com, feed to twitter account.
-* Announce state of project, announce roadmap(s), announce new versions as they’re released.
-
-## Contributing
+1. [User and Task Analysis](coursework/VisualizingDHQ_UserTaskAnalysis.pdf)
+2. [Presentation of Project Plans](coursework/DHQ_Writeup1-8.pdf)
+3. [Presentation of Intermediate Project Results](coursework/DHQ_WriteupItem1-10.pdf)
+4. [Peer Feedback](coursework/8-VisualizingDHQBibliography-review.pdf)
+5. Final Project Results
 
 
-To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
-This is very important as it allows me to accept your pull request without having to publish a public version release.
+## [Data Wrangling & Analysis](R.md)
 
-Small, atomic Features, bugs, etc.
-Use the `jb-development` branch but note it will likely change fast as pull requests are accepted.
-Please rebase as often as possible when working.
-Work on small, atomic features/bugs to avoid upstream commits affecting/breaking your development work.
+This section outlines the tools and workflows used for the data wrangling (collection, completion, cleaning and validation) and the subsequent analysis and visualization of the data.  Where possible, we have included workflows to aid in reproducing our work.
 
-For Big Features or major API extensions/edits:
-This is the one case where I'll accept pull-requests based off the master branch.
-This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
-Translation : it might take a bit longer so please be patient! (but sincerely thank you).
+## [Source & Master Data Files](data.md)
 
-**Jekyll-Bootstrap Documentation Website.**
+This section provides an brief outline of the data provided by the client, as well as additional data gained from cleaning and validation.  It also contains the descriptions of the master files used for analysis and visualization.
 
-The documentation website at <http://jekyllbootstrap.com> is maintained at https://github.com/plusjade/jekyllbootstrap.com
+##[Images](images)
 
+This contains all of the preliminary images, draft visualizations, sketches and drawings developed by the group.  These represent the collective efforts of the group to arrive at the final visualizations presented in the project report.
 
-## License
+* Test Images
+* Intermediate Visualizations
+* Final Test Visualizations
+* Final Visualizations
+* Final Visualizations (PDF & AI)
 
-[MIT](http://opensource.org/licenses/MIT)
+---
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
