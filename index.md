@@ -68,7 +68,7 @@ This section outlines the tools and workflows used for the data wrangling (colle
 
 This section provides an brief outline of the data provided by the client, as well as additional data gained from cleaning and validation.  It also contains the descriptions of the master files used for analysis and visualization.
 
-##[Images]({{BASE_PATH}}/images)
+##[Images](https://github.com/jkaupp/DHQ/tree/master/images)
 
 This contains all of the preliminary images, draft visualizations, sketches and drawings developed by the group.  These represent the collective efforts of the group to arrive at the final visualizations presented in the project report.
 
