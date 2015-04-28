@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "#Data Wrangling and Analysis"
+title: "Data Wrangling and Analysis"
 description: ""
 ---
 {% include JB/setup %}
