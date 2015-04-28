@@ -37,6 +37,8 @@ Under a recent grant from NEH (National Endowment for Humanities), DHQ has devel
 
 The identification of those subjects and areas and of their major contributors would be very important for any researcher involved or interested in digital media research. However, due to the collaborative, multidisciplinary nature of the digital media research, such identification becomes extremely difficult, if not impossible, to accomplish by merely analyzing the DHQ bibliographic database (Borner, 2003). In such a case, visualization is the preferred approach.
 
+---
+
 ## IVMOOC Project Deliverables
 
 1. [User and Task Analysis]({{BASE_PATH}}/coursework/VisualizingDHQ_UserTaskAnalysis.pdf)
@@ -45,10 +47,11 @@ The identification of those subjects and areas and of their major contributors w
 4. [Peer Feedback]({{BASE_PATH}}/coursework/8-VisualizingDHQBibliography-review.pdf)
 5. [Final Project Paper]({{BASE_PATH}}/coursework/VisualizingDHQ_Final_Paper.pdf)
 
+---
 
 ##[Project Repository](https://github.com/jkaupp/DHQ)
 
-Most of the work was done collaboratively using a variety of tools and approaches.  Early on, the group decided to keep a record of all work for the project on github.  This website is the project page for the github repository.
+Most of the work was done collaboratively using a variety of tools and approaches.  Early on, the group decided to keep a record of all work for the project on github.  This website is the project page for the github repository and contains the project deliverables as well as:
 
 ### [Data Wrangling & Analysis]({{ BASE_PATH }}/R.html)
 
