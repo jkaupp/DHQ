@@ -1,51 +1,26 @@
 ---
 layout: page
-title: "IVMOOC 2015: Visualizing the Digital Humanities Project"
+title: "Mapping Cultures in the Big Tent - Multidisciplinary Networks in the Digital Humanities Quarterly"
 description: "main page"
 ---
 {% include JB/setup %}
 
-##Mapping Cultures in the Big Tent: Multidisciplinary Networks in the Digital Humanities Quarterly
 
-***
+|---
+| **Name** | **Profession** | **Affiliation**
+|:-:|:-:|:-:|
+| Dulce Maria de la Cruz  | Freelance Data Analyst |
+|---
+| Kristin Lewis | Physicist | AAAS/NASA  |
+|---
+| Teh-Hen Yu | IT Professional |
+|---
+| Jake Kaupp | Engineering Education Researcher | Queen's University |
+|---
+| Max Kemman | PhD Candidate | University of Luxembourg |
 
-<h3 id="authors">Authors</h3>
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Profession</th>
-<th>Affiliation</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Dulce Maria de la Cruz</td>
-<td>Freelance Data Analyst</td>
-<td></td>
-</tr>
-<tr>
-<td>Kristin Lewis</td>
-<td>Physicist</td>
-<td>AAAS/NASA</td>
-</tr>
-<tr>
-<td>Teh-Hen Yu</td>
-<td>IT Professional</td>
-<td></td>
-</tr>
-<tr>
-<td>Jake Kaupp</td>
-<td>Engineering Education Researcher</td>
-<td>Queen&#39;s University</td>
-</tr>
-<tr>
-<td>Max Kemman</td>
-<td>PhD Candidate</td>
-<td>University of Luxembourg</td>
-</tr>
-</tbody>
-</table>
+
+---
 
 ##This Site
 

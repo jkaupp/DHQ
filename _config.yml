@@ -1,7 +1,6 @@
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title
-
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 markdown: kramdown
@@ -9,7 +8,7 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Mapping Cultures in the Big Tent
+title : "IVMOOC 2015 - Visualizing the Digital Humanities Project"
 tagline:
 author :
   name : Jake Kaupp
