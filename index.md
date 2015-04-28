@@ -11,11 +11,11 @@ description: "main page"
 |---
 | **Name** | **Profession** | **Affiliation**
 |:-:|:-:|:-:|
-| Dulce Maria de la Cruz  | Freelance Data Analyst |
+| Dulce Maria de la Cruz  | Freelance Data Analyst | -
 |---
 | Kristin Lewis | Physicist | AAAS/NASA  |
 |---
-| Teh-Hen Yu | IT Professional |
+| Teh-Hen Yu | IT Professional | -
 |---
 | Jake Kaupp | Engineering Education Researcher | Queen's University |
 |---
@@ -25,27 +25,10 @@ description: "main page"
 
 ---
 
-This is the project page website which displays the repository a little more cleanly.  This is the more 'presentable' side of the work done for the course and the client.
-
-##[Project Repository](https://github.com/jkaupp/DHQ)
-
-The main github repository of for the project.  This is easily cloned or downloaded to get all files related to our work.
-
-##[IVMOOC](http://ivmooc.cns.iu.edu/)
-
-The Information Visualization Massively Open Online Course, or IVMOOC, provides an overview about the state of the art in information visualization. It teaches the process of producing effective visualizations that take the needs of users into account.
-
-Among other topics, the course covers:
-
-* Data analysis algorithms that enable extraction of patterns and trends in data
-* Major temporal, geospatial, topical, and network visualization techniques
-* Discussions of systems that drive research and development.
-
-Students will have the opportunity to collaborate on real-world projects for a variety of clients.
-
-##This Project
+##About the Project
 
 The Digital Humanities Quarterly (DHQ) journal covers all aspects of digital media in the humanities, representing a meeting point between digital humanities research and the wider humanities community (Alliance of Digital Humanities Organizations, 2005). It is the publication from ACH (Association for Computers and Humanities), which is part of ADHO (the Alliance of Digital Humanities Organization)  -- a global alliance with constituent members in EU (EADH), US (ACH), Canada (CSDH/SCHN), Japan (JADH), Australia (aaDH), and an international network (centerNet) with 196 Digital Humanity Centers globally. Articles published in DHQ involve authors of multiple countries, institutions and disciplines who work on several subjects and areas related to digital media research.
+
 Under a recent grant from NEH (National Endowment for Humanities), DHQ has developed a centralized bibliography which supports the bibliographic referencing for the journal. The client is looking for visualizations that show:
 
 1.	how citations reflect differences in academic culture at the institutional and geographic level
@@ -54,9 +37,7 @@ Under a recent grant from NEH (National Endowment for Humanities), DHQ has devel
 
 The identification of those subjects and areas and of their major contributors would be very important for any researcher involved or interested in digital media research. However, due to the collaborative, multidisciplinary nature of the digital media research, such identification becomes extremely difficult, if not impossible, to accomplish by merely analyzing the DHQ bibliographic database (Borner, 2003). In such a case, visualization is the preferred approach.
 
-##Project Work
-
-The project spanned 5 weeks of the course.  Each week there was a deliverable required by the course for assessment, and to keep the project on track. During the fourth week, teams received feedback from their peers about the intermediate project results.  Detailed below is the work done by our group, and the feedback received:
+## IVMOOC Project Deliverables
 
 1. [User and Task Analysis]({{BASE_PATH}}/coursework/VisualizingDHQ_UserTaskAnalysis.pdf)
 2. [Presentation of Project Plans]({{BASE_PATH}}/coursework/DHQ_Writeup1-8.pdf)
@@ -65,15 +46,19 @@ The project spanned 5 weeks of the course.  Each week there was a deliverable re
 5. [Final Project Paper]({{BASE_PATH}}/coursework/VisualizingDHQ_Final_Paper.pdf)
 
 
-## [Data Wrangling & Analysis]({{ BASE_PATH }}/R.html)
+##[Project Repository](https://github.com/jkaupp/DHQ)
+
+Most of the work was done collaboratively using a variety of tools and approaches.  Early on, the group decided to keep a record of all work for the project on github.  This website is the project page for the github repository.
+
+### [Data Wrangling & Analysis]({{ BASE_PATH }}/R.html)
 
 This section outlines the tools and workflows used for the data wrangling (collection, completion, cleaning and validation) and the subsequent analysis and visualization of the data.  Where possible, we have included workflows to aid in reproducing our work.
 
-## [Source & Master Data Files]({{ BASE_PATH }}/data.html)
+### [Source & Master Data Files]({{ BASE_PATH }}/data.html)
 
 This section provides an brief outline of the data provided by the client, as well as additional data gained from cleaning and validation.  It also contains the descriptions of the master files used for analysis and visualization.
 
-##[Images](https://github.com/jkaupp/DHQ/tree/master/images)
+###[Images](https://github.com/jkaupp/DHQ/tree/master/images)
 
 This contains all of the preliminary images, draft visualizations, sketches and drawings developed by the group.  These represent the collective efforts of the group to arrive at the final visualizations presented in the project report.
 
