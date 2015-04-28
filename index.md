@@ -24,7 +24,11 @@ description: "main page"
 
 ##This Site
 
-This is the project page website for the above project, by the authors also mentioned above.  This is all of the work done for the project for both the course (IVMOOC) and the client (DHQ)
+This is the project page website which displays the repository a little more cleanly.  This is the more 'presentable' side of the work done for the course and the client.
+
+##[Project Repository](https://github.com/jkaupp/DHQ)
+
+The main github repository of for the project.  This is easily cloned or downloaded to get all files related to our work.
 
 ##[IVMOOC](http://ivmooc.cns.iu.edu/)
 
@@ -57,7 +61,7 @@ The project spanned 5 weeks of the course.  Each week there was a deliverable re
 2. [Presentation of Project Plans]({{BASE_PATH}}/coursework/DHQ_Writeup1-8.pdf)
 3. [Presentation of Intermediate Project Results]({{BASE_PATH}}/coursework/DHQ_WriteupItem1-10.pdf)
 4. [Peer Feedback]({{BASE_PATH}}/coursework/8-VisualizingDHQBibliography-review.pdf)
-5. Final Project Results
+5. [Final Project Paper]({{BASE_PATH}}/coursework/VisualizingDHQ_Final_Paper.pdf)
 
 
 ## [Data Wrangling & Analysis]({{ BASE_PATH }}/R.html)
