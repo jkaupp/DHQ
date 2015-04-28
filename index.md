@@ -23,7 +23,7 @@ description: "main page"
 
 ---
 
-![animated co-author network](https://raw.githubusercontent.com/jkaupp/DHQ/gh-pages/images/Final%20Visualizations/Fixed-Visualization-animated.gif)
+<img src="https://raw.githubusercontent.com/jkaupp/DHQ/gh-pages/images/Final%20Visualizations/Fixed-Visualization-animated.gif" width="200"/>
 
 
 ##About the Project
