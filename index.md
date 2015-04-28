@@ -23,9 +23,9 @@ description: "main page"
 
 ---
 
-<img src="https://raw.githubusercontent.com/jkaupp/DHQ/gh-pages/images/Final%20Visualizations/Fixed-Visualization-animated.gif" style="float: left; width: 38%; margin-right: 1%; margin-bottom: 0.5em;" >
-<img src="https://raw.githubusercontent.com/jkaupp/DHQ/gh-pages/images/Final%20Visualizations/BibliographicBackbone-newcolors-01.png" style="float: right; width: 60%; margin-right: 1%; margin-bottom: 0.5em;" >
-<img src="https://raw.githubusercontent.com/jkaupp/DHQ/gh-pages/images/Final%20Visualizations/BibliographicBackbone-newcolors-02.png" style="float: right; width: 60%; margin-right: 1%; margin-bottom: 0.5em;" >
+<img src="https://raw.githubusercontent.com/jkaupp/DHQ/master/images/Final%20Visualizations/FixedCo-author-by-year-landscape.png" style="float: center; margin-right: 1%; margin-bottom: 0.5em;" >
+<img src="https://raw.githubusercontent.com/jkaupp/DHQ/gh-pages/images/Final%20Visualizations/BibliographicBackbone-newcolors-01.png" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;" >
+<img src="https://raw.githubusercontent.com/jkaupp/DHQ/gh-pages/images/Final%20Visualizations/BibliographicBackbone-newcolors-02.png" style="float: right; width: 48%; margin-right: 1%; margin-bottom: 0.5em;" >
 
 <p style="clear: both;">
 </p>
