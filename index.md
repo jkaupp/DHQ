@@ -26,6 +26,7 @@ description: "main page"
 <img src="https://raw.githubusercontent.com/jkaupp/DHQ/gh-pages/images/Final%20Visualizations/Fixed-Visualization-animated.gif" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" >
 <img src="https://raw.githubusercontent.com/jkaupp/DHQ/gh-pages/images/Final%20Visualizations/BibliographicBackbone-newcolors-01.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" >
 <img src="https://raw.githubusercontent.com/jkaupp/DHQ/gh-pages/images/Final%20Visualizations/BibliographicBackbone-newcolors-02.png" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;" >
+
 <p style="clear: both;">
 
 ---
