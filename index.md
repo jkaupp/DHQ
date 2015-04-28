@@ -21,9 +21,10 @@ description: "main page"
 |---
 | Max Kemman | PhD Candidate | University of Luxembourg |
 
-
-
 ---
+
+![animated co-author network](https://raw.githubusercontent.com/jkaupp/DHQ/gh-pages/images/Final%20Visualizations/Fixed-Visualization-animated.gif)
+
 
 ##About the Project
 
