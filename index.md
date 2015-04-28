@@ -5,9 +5,10 @@ description: "main page"
 ---
 {% include JB/setup %}
 
-## Authours
+## Authors
 <center>
 <br>
+
 |---
 | **Name** | **Profession** | **Affiliation**
 |:-:|:-:|:-:|
@@ -20,6 +21,7 @@ description: "main page"
 | Jake Kaupp | Engineering Education Researcher | Queen's University |
 |---
 | Max Kemman | PhD Candidate | University of Luxembourg |
+
 </center>
 
 ---
