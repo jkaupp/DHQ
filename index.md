@@ -6,7 +6,7 @@ description: "main page"
 {% include JB/setup %}
 
 ## Authors
-
+---
 |---
 | **Name** | **Profession** | **Affiliation**
 |:-:|:-:|:-:|
