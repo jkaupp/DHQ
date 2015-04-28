@@ -6,11 +6,7 @@ description: "main page"
 {% include JB/setup %}
 
 ## Authors
-<center>
-<br>
 
-|---
-| **Name** | **Profession** | **Affiliation**
 |:-:|:-:|:-:|
 | Dulce Maria de la Cruz  | Freelance Data Analyst |
 |---
@@ -21,8 +17,6 @@ description: "main page"
 | Jake Kaupp | Engineering Education Researcher | Queen's University |
 |---
 | Max Kemman | PhD Candidate | University of Luxembourg |
-
-</center>
 
 ---
 
