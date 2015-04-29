@@ -23,7 +23,7 @@ description: "main page"
 
 ---
 
-<img src="https://raw.githubusercontent.com/jkaupp/DHQ/master/images/Final%20Visualizations/Fixed-Visualization-animated.gif" style="float: center; margin-right: 1%; margin-bottom: 0.5em;" >
+<img src="https://raw.githubusercontent.com/jkaupp/DHQ/master/images/Final%20Visualizations/Fixed-Visualization-animated.gif" style="float: center; width=800px; margin-right: 1%; margin-bottom: 0.5em;" >
 
 ---
 
